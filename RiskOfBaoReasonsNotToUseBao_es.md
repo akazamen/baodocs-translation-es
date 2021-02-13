@@ -55,8 +55,18 @@ Por favor no use Bao si:
 * No le interesa el proyecto a largo plazo.
 * No es capaz de interactuar con un contrato vía Etherscan.
 * No sigue activamente los proyectos de los cuales posee tokens.
-* No desea votar en gobernanza.
+* No desea votar en la gobernanza.
 * Tiene poca tolerancia al riesgo.
+
+Bao puede representar ganancias para cultivadores y participantes en el ecosistema, pero es importante recordar que uan un riesgo significativo y disolución para los proyectos de cultivo de rentabilidad a corto plazo que puede perjudicar a los compradores.
+
+Como cualquier iniciativa DeFi Bao corre el riesgo de no ser exitoso o caer en precio.
+
+Si no entiende esto, no use Bao.
+
+El Equipo Bao estará enfocado en tomar decisiones que son mejores para la salud a largo plazo de los productos Bao, gobernanza y comunidad, esto quiere decir que a corto plazo estas decisiones no pueden ser las mejores para el precio del token.
+
+Su uso de productos Bao debe enfocarse en ganar mas tokens Bao y en el éxito a largo plazo del sistema Bao.
 
 
 
