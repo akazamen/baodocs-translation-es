@@ -1,5 +1,7 @@
 # Plan de Lanzamiento
 
+_Esta página describe el plan de lanzamiento propuesto actualmente._
+
 1. Publicaremos un contrato "Timelock" basado en el _Compound Timelock_.
 2. Lanzaremos el lote de desbloqueo inicial de Bao que estará en el fondo de recompensa.
   1. En lugar de 72 mil millones (7,2x10<sup>10</sup>), basándonos en decisiones de la comunidad bajaremos este monto a 40 mil millones (4x10<sup>10</sup>).
