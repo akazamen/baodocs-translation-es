@@ -20,4 +20,4 @@ Poner el contrato tras un timelock lo mantiene seguro de riesgos de _rugpull_ pe
 
 Los miembros de la comunidad debe estar muy conscientes de los riesgos que vienen con el lanzamiento.
 
-Si no puede tolerar essos riesgos, se aconseja que no ponga sus activos en el pozo durante el lanzamiento y en lugar espere hasta que el contrato esté mas probado.
+Si no puede tolerar estos riesgos, se aconseja que no ponga sus activos en el pozo durante el lanzamiento y en lugar espere hasta que el contrato esté mas probado.
