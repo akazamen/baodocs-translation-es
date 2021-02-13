@@ -19,4 +19,14 @@ También destacamos pasos que tomamos para protección contra estos riesgos.
 * Casos de borde desconocidos no cubiertos en la lógica pueden causar errores de contrato.
 * El sistema económico puede resultar en una distribución pesada que diluya demasiado el valor de los tokens para los usuarios iniciales.
   * Se recomienda siempre cultivar para Bao y no comprarlo como inversión (este no es un producto de inversión)
-* Dado que la migración tiene un bloque temporal, 
+* Dado que la migración tiene un bloque temporal, si hay un error crítico o hackeo los usuarios deberán girar los tokens ellos mismos. Si esto pasa pueden tener tarifas mas altas del sistema de escala deslizante de tarifas.
+* Los errores de _front end_ pueden romper la habilidad de interactuar con el contrato
+  * Hemos documentado "Como usar manualmente el contrato"
+* El equipo de Bao puede ser incapaz de entregar las etapas futuras del proyecto, si no retienen su talento técnico, enfrentan problemas financieros, o hay desafíos de gobernanza como ser votados fuera de forma temprana.
+* El equipo Bao puede ser incapaz de entregar las etapas futuras del proyecto si hay cambios legales o regulatorios que lo demanden.
+* Errores de _front end_ o de balance, pueden hacer muy difícil rastrear o distribuir de forma justa las recompensas para los usuarios que usen _referrals_.
+* Los grandes inversionistas pueden dominar los pozos iniciales creando avances injustos en gobernanza o precios de mercado.
+  * Hemos intentado mitigar esto agragando varios pozos diversos y recompensas y bloqueos de largo plazo que son malos para grandes proveedores de liquidez que buscan un proyecto de corto plazo.
+* Las decisiones económicas tomadas por el equipo para proveer liquidez, pagar proveedores o pagar al equipo, pueden resultar en precio negativo de ecosistema durante los dias iniciales.
+  * Esperamos balancear esto a largo plazo, razon por la cual los fondos de usuario están bloqueados y se consolidan durante 3 años.
+* 
