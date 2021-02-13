@@ -26,7 +26,7 @@ También destacamos pasos que tomamos para protección contra estos riesgos.
 * El equipo Bao puede ser incapaz de entregar las etapas futuras del proyecto si hay cambios legales o regulatorios que lo demanden.
 * Errores de _front end_ o de balance, pueden hacer muy difícil rastrear o distribuir de forma justa las recompensas para los usuarios que usen _referrals_.
 * Los grandes inversionistas pueden dominar los pozos iniciales creando avances injustos en gobernanza o precios de mercado.
-  * Hemos intentado mitigar esto agragando varios pozos diversos y recompensas y bloqueos de largo plazo que son malos para grandes proveedores de liquidez que buscan un proyecto de corto plazo.
+  * Hemos intentado mitigar esto agregando varios pozos diversos y recompensas y bloqueos de largo plazo que son malos para grandes proveedores de liquidez que buscan un proyecto de corto plazo.
 * Las decisiones económicas tomadas por el equipo para proveer liquidez, pagar proveedores o pagar al equipo, pueden resultar en precio negativo de ecosistema durante los dias iniciales.
   * Esperamos balancear esto a largo plazo, razon por la cual los fondos de usuario están bloqueados y se consolidan durante 3 años.
 * 
