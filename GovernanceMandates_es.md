@@ -8,13 +8,13 @@ El equipo deberá crear cualquier voto oficial creando Spanshot.
 
 Para que un voto pase necesitará:
 
-* >55% de aprobación
-* >33% de votos elegibles votando para establecer este quórum.
+* &gt;55% de aprobación
+* &gt;33% de votos elegibles votando para establecer este quórum.
 
 Los votos establecidos por la comunidad requerirán:
 
-* >66% de aprobación
-* >50% de votos elegibles votando para establecer este quórum.
+* &gt;66% de aprobación
+* &gt;50% de votos elegibles votando para establecer este quórum.
 
 Votos de gobernanza:
 
