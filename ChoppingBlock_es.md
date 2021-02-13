@@ -2,7 +2,7 @@
 
 **Nota importante: La Guillotina estará en pausa hasta la migración V2 por voto de la comunidad**
 
-Cada semana, cuatro pozos serán puestos en "la guillotina".
+Cada semana, cuatro pozos serán puestos en "la guillotina" (_Chopping Block_).
 
 Estos pozos serán
 
