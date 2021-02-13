@@ -27,6 +27,38 @@ También destacamos pasos que tomamos para protección contra estos riesgos.
 * Errores de _front end_ o de balance, pueden hacer muy difícil rastrear o distribuir de forma justa las recompensas para los usuarios que usen _referrals_.
 * Los grandes inversionistas pueden dominar los pozos iniciales creando avances injustos en gobernanza o precios de mercado.
   * Hemos intentado mitigar esto agregando varios pozos diversos y recompensas y bloqueos de largo plazo que son malos para grandes proveedores de liquidez que buscan un proyecto de corto plazo.
-* Las decisiones económicas tomadas por el equipo para proveer liquidez, pagar proveedores o pagar al equipo, pueden resultar en precio negativo de ecosistema durante los dias iniciales.
-  * Esperamos balancear esto a largo plazo, razon por la cual los fondos de usuario están bloqueados y se consolidan durante 3 años.
-* 
+* Las decisiones económicas tomadas por el equipo para proveer liquidez, pagar proveedores o pagar al equipo, pueden resultar en bajos precios en el ecosistema durante los dias iniciales.
+  * Esperamos balancear esto a largo plazo, razón por la cual los fondos de usuario están bloqueados y se consolidan durante 3 años.
+* Las recompensas de liquidez a colaboradores y casas de cambio pueden resultar en bajos precio en el ecosistema durante los dias iniciales.
+  * Esperamos balancear esto a largo plazo, razón por la cual los fondos de usuario están bloqueados y se consolidan durante 3 años.
+* Bao aún no tiene un equipo de ingeniería de timepo completo. Es un proyecto de solo una persona de un desarrollador autodidacta. Esto incrementa el riesgo de errores y averías para los cuales el equipo no pueda responder suficientemente rápido.
+  * Esperamos solucionar esto priorizando contrataciones de desarrolladores.
+  
+## Por que no deberias comprar Bao  
+
+Es importante entender que BAO es es una oferta para invertir. Es un proyecto comunitario.
+
+Cuando provee beneficios al contrato BaoMasterFarmer o a futuros contratos sintéticos o de futuro, se le recompensa con tokens de gobernanza Bao que deja a los usuarios participar en el procesos de gobernanza y en el futuro, si la comunidad lo decide, pueda reclamar activos del tesoro y tarifas del ecosistema.
+
+Sin embargo, no debe comprar Bao si no es un participante activo en el ecosistema y no debe usar Bao para nada dependiendo de su tolerancia al riesgo.
+
+Por favor no use Bao si:
+
+* No entiende las tarifas asociadas en depósitos, giros y otras transacciones.
+* Está comprando bao como un activo para especular.
+* Cree que Bao solo puede subir de precio.
+* No sabe sobre el plan de emisión o los bloqueos.
+* Esta poniendo dinero que no puede darse el lujo de perder.
+* Le preocupa el precio en el corto plazo.
+* Tiene demasiado de su portafolio en Bao.
+* No sabe sobre las Pérdidas Impermanentes (_Impermanent Losses_).
+* No le interesa el proyecto a largo plazo.
+* No es capaz de interactuar con un contrato vía Etherscan.
+* No sigue activamente los proyectos de los cuales posee tokens.
+* No desea votar en gobernanza.
+* Tiene poca tolerancia al riesgo.
+
+
+
+
+
