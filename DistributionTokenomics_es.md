@@ -8,7 +8,7 @@ Aunque la comunidad tendrá la capacidad de votar por cambios en los límites de
 El total de tokens no es un límite duro, pues a medida que progresamos en la distribución dependerá de los votos de la comunidad fijar el límite de tokens.
 
 ### Distribución
-Habrá una distribución total de 1 billón de tokens. (1 x 10<sup>9</sup>)
+Habrá una distribución total de 1 billón de tokens. (1x10<sup>9</sup>)
 
 Cuando un usuario gane tokens, 95% de ese balance estará bloqueado en un proceso de consolidación de 3 años que tiene una espera inicial de 1 año.
 
