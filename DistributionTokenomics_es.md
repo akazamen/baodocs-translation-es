@@ -65,7 +65,7 @@ Los usuarios que tengan Bao podrán:
 
 Bao también podrá usarse como colateran donde los usuarios requieran:
 
-* 25% de límite colateral en bao para la crear activos sintéticos.
+* 25% de límite colateral en bao para crear activos sintéticos.
 * Tener margen, apalancamiento y límite de opciones con un límite máximo de 5x el balance de bao.
 
 (Los usuarios podrán votar para cambiar estos valores)
