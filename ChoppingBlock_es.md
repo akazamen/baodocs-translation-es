@@ -21,4 +21,10 @@ La guillotina continuará hasta que quedemos con menos de 50 pozos, o hasta que 
 
 Este proceso incentiva a las comunidades a participar en BAO, pero también asegura que las comunidades con poca participación sean removidas.
 
-Cuando los pozos son removidos de la circulación, quiere decir que todos los otros pozos se reparten las recompensas entre ellos.
+Cuando los pozos son removidos de la circulación, quiere decir que todos los otros pozos se reparten las recompensas de ese pozo entre ellos.
+
+Esto quiere decir que si bien las recompensas se reducen cada semana, mediante la remoción de otros pozos la caída no será tan significante para los pozos que permanezcan.
+
+## Período Acelerado
+
+Durante las primeras cuatro semanas de BAO, la guillotina incluirá 2x la cantidad de pozos cada semana. En la cual las cuatro con los menores votos serán removidos.
