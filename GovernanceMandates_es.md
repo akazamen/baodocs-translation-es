@@ -24,7 +24,7 @@ Los votos de usuario son calculados por un contrato inteligente especial ( https
 
 1. 33% de su Bao bloqueado +
 2. 1/4 de su $BAO +
-3. 3x de su $BAO que se halle en un pozo Bao/ETH Party.
+3. 3x de su $BAO que se halle en el pozo Bao/ETH Party.
 
 ## Materias Sobre las que el Equipo Crea Votos:
 
