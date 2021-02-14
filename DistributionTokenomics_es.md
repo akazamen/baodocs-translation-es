@@ -63,7 +63,7 @@ Los usuarios que tengan Bao podrán:
 * Remover oráculos para la valorización de activos sintéticos.
 * Decidir cual activo sintético crear/listar/remover.
 
-Bao también podrá usarse como colateran donde los usuarios requieran:
+Bao también podrá usarse como colateral donde los usuarios requieran:
 
 * 25% de límite colateral en bao para crear activos sintéticos.
 * Tener margen, apalancamiento y límite de opciones con un límite máximo de 5x el balance de bao.
